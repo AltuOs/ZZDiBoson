@@ -14,7 +14,7 @@ outputpath=("../Analysis/WBosonAnalysis/Output_WBosonAnalysis" \
 "../Analysis/TTbarAnalysis/Output_TTbarAnalysis" \
 "../Analysis/SingleTopAnalysis/Output_SingleTopAnalysis" \
 "../Analysis/WZDiBosonAnalysis/Output_WZDiBosonAnalysis" \
-"/home/student/ZZDiBoson/Output_ZZDiBosonAnalysis" \
+"../Output_ZZDiBosonAnalysis" \
 "../Analysis/HWWAnalysis/Output_HWWAnalysis" \
 "../Analysis/HZZAnalysis/Output_HZZAnalysis" \
 "../Analysis/ZTauTauAnalysis/Output_ZTauTauAnalysis" \
