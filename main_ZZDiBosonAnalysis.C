@@ -9,8 +9,8 @@ void main_ZZDiBosonAnalysis(int proof = 0, int option= 0)
 {
   // path to your local directory *or* URL, please change the default one!
   /* Local path example */
-    TString path  = "/media/sf_compartida/4lep/";
-    TString path2 = "/media/sf_compartida/2lep/";
+    TString path  = "/home/student/HZZ4l/4lep/";
+    TString path2 = "/media/sf_carpeta_compartida_MV/2lep/";
 
   /* The URL to the ATLAS Open Data website repository 
   TString path  = "http://www.universidad.ch/ATLAS/outreach/open-data-2020/4lep/";
